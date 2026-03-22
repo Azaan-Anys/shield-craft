@@ -1,7 +1,3 @@
-// script.js
-console.log("JavaScript file loaded");
-
-// Your scrollspy code
 const navLinks = document.querySelectorAll(".navbar ul li a");
 const scrollSections = document.querySelectorAll(
   "#home, #services, #about, #contact",
